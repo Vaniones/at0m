@@ -5,4 +5,7 @@
 
 
 ## Tree
-![NPM Bundle Size](https://img.shields.io/bundlephobia/minzip/tree?color=blue&logo=npm&logoColor=blue&style=plastic)
+![NPM Bundle Size](https://img.shields.io/bundlephobia/minzip/react?color=lightgrey&logo=react&logoColor=white&style=plastic)
+#
+REACT:
+.*core*..*boot*...*.At0m*....*.NODE_TREE*.....*.tree*.....*.public*......*tree.php*.
