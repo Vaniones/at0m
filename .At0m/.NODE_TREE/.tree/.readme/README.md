@@ -8,4 +8,4 @@
 ![NPM Bundle Size](https://img.shields.io/bundlephobia/minzip/react?color=lightgrey&logo=react&logoColor=white&style=plastic)
 #
 REACT:
-.*core*..*boot*...*.At0m*....*.NODE_TREE*.....*.tree*.....*.public*......*tree.php*.
+.*core*..*boot*...*.At0m*....*.NODE_TREE*.....*.tree*.....*.public*......*index.html*.
