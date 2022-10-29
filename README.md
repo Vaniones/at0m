@@ -19,8 +19,8 @@ and are published as a vscode file [on Github.dev](https://github.dev/Vaniones/a
 
 ---
 
-* :test_tube:[  Work in Progress](#work-in-progress)
-* :package:[ Packages](#packages)
+* :test_tube:[    Work in Progress](#work-in-progress)
+* :package:[   Packages](#packages)
 
 ## :package: Packages
 
