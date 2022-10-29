@@ -28,7 +28,7 @@ The packages creates files (json, php, js).
 JSON:
 ```json
 {
-  "POST_": "at0m",
+  "name": "at0m",
   "version": "0.1.0",
 }
 ```
