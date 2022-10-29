@@ -24,7 +24,9 @@ and are published as a vscode file [on Github.dev](https://github.dev/Vaniones/a
 
 ## :package: Packages
 
-The packages creates files (json, php, js).
+The packages creates files (json, toml, js).
+
+---
 
 JSON:
 ```json
@@ -32,6 +34,11 @@ JSON:
   "name": "at0m",
   "version": "0.1.0",
 }
+```
+
+TOML:
+```toml
+at0m = "0.2.0"
 ```
 
 SHELL:
