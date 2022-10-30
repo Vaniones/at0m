@@ -14,7 +14,7 @@ to request changes to the packaging process.
 
 ## :pencil2: About
 
-This repository creates packages (json, md, php) for various projects
+This repository creates packages (json, toml, php) for various projects
 and are published as a vscode file [on Github.dev](https://github.dev/Vaniones/at0m/blob/master/README.md).
 
 ---
@@ -24,7 +24,7 @@ and are published as a vscode file [on Github.dev](https://github.dev/Vaniones/a
 
 ## :package: Packages
 
-The packages creates files (json, toml, js).
+The packages creates files (json, toml, shell).
 
 ---
 
